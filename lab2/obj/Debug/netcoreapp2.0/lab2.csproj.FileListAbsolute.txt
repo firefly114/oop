@@ -1,0 +1,10 @@
+/home/firefly/C#/lab2/bin/Debug/netcoreapp2.0/lab2.deps.json
+/home/firefly/C#/lab2/bin/Debug/netcoreapp2.0/lab2.runtimeconfig.json
+/home/firefly/C#/lab2/bin/Debug/netcoreapp2.0/lab2.runtimeconfig.dev.json
+/home/firefly/C#/lab2/bin/Debug/netcoreapp2.0/lab2.dll
+/home/firefly/C#/lab2/bin/Debug/netcoreapp2.0/lab2.pdb
+/home/firefly/C#/lab2/obj/Debug/netcoreapp2.0/lab2.csproj.CoreCompileInputs.cache
+/home/firefly/C#/lab2/obj/Debug/netcoreapp2.0/lab2.AssemblyInfoInputs.cache
+/home/firefly/C#/lab2/obj/Debug/netcoreapp2.0/lab2.AssemblyInfo.cs
+/home/firefly/C#/lab2/obj/Debug/netcoreapp2.0/lab2.dll
+/home/firefly/C#/lab2/obj/Debug/netcoreapp2.0/lab2.pdb
